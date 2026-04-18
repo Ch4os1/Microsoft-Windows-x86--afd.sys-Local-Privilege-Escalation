@@ -1,4 +1,4 @@
-# Microsoft-Windows-x86---afd.sys-Local-Privilege-Escalation
+# MS11-046-x86---afd.sys-Local-Privilege-Escalation
 Pre-Completed Microsoft Windows (x86) - 'afd.sys' Local Privilege Escalation.<br>
 This repo contains the executable and the update c code for MS11-046.
 C code is compiled with `i686-w64-mingw32-gcc (GCC) 15-win32`
